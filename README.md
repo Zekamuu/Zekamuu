@@ -14,7 +14,9 @@ Hey there! I'm **Rohan Nagashetti** (GitHub: [@zekamuu](https://github.com/zekam
 
 ✍️ In my free time, I explore financial data analysis and trading algorithms, viewing the stock market as an intricate system requiring skills, insight, and experience.
 
-✉️ You can reach me at **Rohan.Nagashetti@gmail.com**!
+✉️ You can reach me at **Rohan.Nagashetti@gmail.com**
+
+✉️ LinkedIn Profile: [@rohan-nagashetti-632b16324](https://www.linkedin.com/in/rohan-nagashetti-632b16324/)
 
 ### 🛠 Tech Stack & Expertise
 
@@ -90,8 +92,3 @@ These projects reflect my commitment to open-source solutions in environmental s
 | **[GEE_DataPipeline](https://github.com/Zekamuu/GEE_DataPipeline)** | **Open-Source Environmental Data Repository.** Used Python libraries like GEEMAP and Folium with Google Earth Engine to process Copernicus Sentinel 5P satellite data (analyzing $\text{NO}_2$, $\text{SO}_2$, and $\text{CO}$ levels) to pinpoint industrial and agricultural pollution sources in New Delhi. |
 | **[TradingLibrary](https://github.com/Zekamuu/TradingLibrary)** | **Financial Data Analysis Core.** Supports algorithmic trading projects by encapsulating trading strategies and data analysis concepts, drawing on skills in Python, Pine Script, and Polygon.IO. |
 | **[trading-bot](https://github.com/Zekamuu/trading-bot)** / **[TradingBot](https://github.com/Zekamuu/TradingBot)** | **Automated Trading Systems.** Implementation of algorithms and strategies based on market analysis and economics. These projects test skills, insight, and experience in building reliable, automated systems for financial markets. |
-
-### 🤝🏻 Connect with Me
-
-*   **GitHub Profile:** [https://github.com/zekamuu](https://github.com/zekamuu)
-*   **Email:** Rohan.Nagashetti@gmail.com
