@@ -1,6 +1,6 @@
-![Rohan Nagashetti Banner Placeholder]
+![Rohan Nagashetti](https://github.com/Zekamuu/Zekamuu/blob/main/About_ME.png)
 
-Hey there! I'm **Rohan Nagashetti** (GitHub: [@zekamuu](https://github.com/zekamuu))
+Hey there! I'm **Rohan Nagashetti**
 
 ### 👨🏻‍💻 About Me
 
